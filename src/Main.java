@@ -6,10 +6,10 @@ public class Main {
         System.out.println("Filme: Top Gun: Maverick");
 
         int anoDeLancamento = 2022;
-        /*System.out.println("Ano de lançamento: " + anoDeLancamento);
+        System.out.println("Ano de lançamento: " + anoDeLancamento);
 
-        boolean incluidoNoPlano = true;
-        double notaDoFilme = 8.1;*/
+        // boolean incluidoNoPlano = true;
+        // double notaDoFilme = 8.1;
 
         // Média calculada por 3 notas
         double media = (9.8 + 6.3 + 8.0) / 3;
