@@ -1,4 +1,4 @@
-package Exercicios;
+package java_criando_sua_primeira_aplicacao.Exercicios;
 
 public class ExercicioDois {
   public static void main(String[] args) {

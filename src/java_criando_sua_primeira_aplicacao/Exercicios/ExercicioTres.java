@@ -1,4 +1,4 @@
-package Exercicios;
+package java_criando_sua_primeira_aplicacao.Exercicios;
 
 import java.util.Random;
 import java.util.Scanner;
