@@ -3,6 +3,7 @@ import java.util.Scanner;
 public class Desafio {
   public static void main(String[] args) {
     Scanner scanner = new Scanner(System.in);
+
     int opcao = 0;
     String nome = "João Ferreira";
     String tipoConta = "Corrente";
@@ -66,10 +67,12 @@ public class Desafio {
           break;
         case 4:
           System.out.println("Sistema encerrado!");
+          
           break;
       
         default:
           System.out.println("Opção inválida!");
+          
           break;
       }
     }
