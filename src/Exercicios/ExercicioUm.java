@@ -1,4 +1,4 @@
-package java_criando_sua_primeira_aplicacao.Exercicios;
+package Exercicios;
 /*
   Escreva um programa que converta uma temperatura digitada em Celsius e converta para Fahrenheit.
 */
