@@ -1,4 +1,4 @@
-package java_criando_sua_primeira_aplicacao;
+
 import java.util.Scanner;
 
 public class Loop {
